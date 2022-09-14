@@ -1,2 +1,2 @@
-# mayhem-github-example
-Mayhem github actions example
+# app fuzz test
+Fuzzing github actions example
